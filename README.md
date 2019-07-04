@@ -1,1 +1,1 @@
-Test merge commits for whitelist or skip keywords.
+Test merge commits for popper:[...] keywords.

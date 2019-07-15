@@ -1,1 +1,1 @@
-### Test merge commits for xyz popper:whitelist[b.workflow] abc
+### Test merge commits for xyz popper:run[--wfile b.workflow] abc
